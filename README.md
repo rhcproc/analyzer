@@ -27,7 +27,8 @@ $ python app.py
 The analysis result of iris data base is output.
 
 ## output screen of test
-![output](./assets/output.png)
+
+<img src="https://github.com/spritecodej/analyzer/blob/master/assets/output.png" width="70%"></img>
 
 
 ## License
